@@ -26,13 +26,6 @@ The primary goal of this dataset is to **predict customer churn** based on histo
 - **MLOps & Deployment:** Deploy the best model as an API and set up performance monitoring.
 - **Final Documentation:** Prepare reports and a presentation on project outcomes.
 
-## Repository Structure
-- `data/` – Raw and processed datasets.
-- `notebooks/` – Jupyter notebooks for exploratory analysis and visualization.
-- `src/` – Code for data processing, model training, and deployment.
-- `docs/` – Project documentation and reports.
-- `LICENSE` – Repository license file.
-
 ## Getting Started
 1. **Clone the Repository:**  
    ```bash
